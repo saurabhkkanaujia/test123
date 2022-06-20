@@ -1,0 +1,10 @@
+{
+    "name": "test/testname",
+    "description": "feflkjewhv",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
