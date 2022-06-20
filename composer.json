@@ -3,7 +3,8 @@
     "description": "feflkjewhv",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "fzaninotto/faker": "^1.9"
     }
